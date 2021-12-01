@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.logo-text{
+    font-size: 30px;
+    font-family: lucida console;
+}
+.nv-txt{
+    font-size: 20px;
+}
+.blank{
+    height: 600px;
+}
+.bg-nav, .bg-footer{
+    background-color: #d6ed17ff;
+}
+.footer-text{
+    color: #606060ff;
+    font-weight: bold;
+}
+.ind{
+    color: yellowgreen;
+    background-color: yellowgreen;
+}
+
+#sld{
+    background-image: '../../images/eat-right.jpg';
+    background-size: 100vh;
+}
